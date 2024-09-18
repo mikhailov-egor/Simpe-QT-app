@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/image/background.jpg</file>
+        <file>files/themes/standart.json</file>
+        <file>files/themes/standart/close-btn.png</file>
+        <file>files/themes/standart/close-btn-hover.png</file>
+        <file>files/themes/standart/ico.png</file>
+        <file>files/themes/standart/max-btn.png</file>
+        <file>files/themes/standart/min-btn.png</file>
+        <file>files/themes/standart/normal-btn.png</file>
+        <file>files/image/afterlyfe.jpg</file>
+        <file>files/music/How it go.mp3</file>
+        <file>files/music/Shhh.mp3</file>
+        <file>files/image/lyfestyle.jpg</file>
+        <file>files/music/Lyfe.mp3</file>
+        <file>files/image/no_image.jpg</file>
+    </qresource>
+</RCC>
